@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.ulstyle{
+    background-color:blueviolet
+}
+.listyle{
+    color: yellow;
+    font-size: large;
+    font-weight: bolder;
+}

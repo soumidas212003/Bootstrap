@@ -1,0 +1,11 @@
+.container-fulid{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid black;
+    height: 100vh;
+} 
+.col{
+    border: 2px solid black;
+}   
+    
