@@ -1,0 +1,36 @@
+/* Navber Part */
+#header{
+    color:white;
+    background-color: #fe0000;
+}
+#logo{
+    font-size:2rem;
+    margin:7px
+}
+#menu{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+#menu li{
+    display:inline-block;
+}
+#menu li a{
+    display:block;
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    font-weight: 500;
+    font-size: 16px;
+}
+a:hover{
+    background-color: #df0404;
+}
+
+/* Banner */
+#banner{
+    background-image: url('worldCup.jpg');
+    background-size: cover;
+    
+    /* background-color: bisque; */
+}
